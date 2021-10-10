@@ -1,0 +1,59 @@
+/* CSS for source blocks */
+
+pre.src {
+    background: #000000; color: #dcdccc; 
+    padding: 10px;
+}
+
+
+.org-preprocessor {
+   color: #94BFF3;
+}
+
+
+.org-variable-name {
+   color: #DFAF8F;
+}
+
+.org-string {
+   color: #cc9393;
+}
+
+.org-type {
+   color: #7CB8BB;
+   font-weight: bold;
+}
+
+.org-function-name {
+   color: #93E0E3;
+   font-weight: bold;
+}
+
+.org-keyword {
+   color: #f0dfaf;
+   font-weight: bold;
+}
+
+.org-comment {
+    color: #7f9f7f;
+    font-style: italic;
+}
+
+.org-comment-delimiter {
+    color: #5F7F5F;
+}
+
+.org-doc {
+    color: #afd8af;
+}
+
+
+.org-constant {
+   color: #dca3ac;
+   font-weight:bold;
+}
+
+.org-builtin {
+   color: #7f9f7f;
+   font-weight: bold;
+}
