@@ -1,0 +1,7 @@
+#+title: Add extra build tools to haskell.nix project
+#+date: <2021-10-24 21:08>
+#+description: How to add extra build tools to a haskell.nix project
+#+filetags: ::haskell.nix::buildtools::plugin::
+* Why
+Sometimes you will need some extra tools to build your project. For the ~RecordDotSyntax~ feature, you will need a
+ghc plugin or a pre processer to build.
